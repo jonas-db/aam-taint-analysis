@@ -1,0 +1,33 @@
+Taint analysis
+
+run with: -f file.scm -m AAM -d out.dot -l MustTaint
+--------------------------------------------------------------
+
+Abstract Machine Experiments with Scala
+* Goal
+The goal of this artefact is to experiment with abstract machines and language
+semantics with the theoretical framework described by Might, Van Horn and
+Johnson (Abstracting Abstract Machines, Abstracting Abstract Control, Pushdown
+Control-Flow Analyses).
+* Architecture
+To find out about the architecture of the implementation, look at the comments
+on the top of Main.scala (src/main/scala/Main.scala). They will bring you to
+other parts of the code that are worth seeing.
+
+When doing modification to the source code, you can run the test suite to test
+your changes by running =sbt test=. It should take a few minutes to run
+everything and will report which tests are failing if there are any.
+* Usage
+Use sbt to launch the program. Once sbt is launched and has installed the
+dependencies, you can perform the following:
+
+#+BEGIN_SRC sh
+run -h # Shows the possible options
+run -f test/fact.scm # Performs abstract interpretation on fact.scm
+run -f test/fact.scm -l Concrete -c # Performs concrete interpretation on fact.scm
+run -f test/fact.scm -m AAM # Use the AAM approach (default one is Free)
+run -f test/fact.scm -m AAC # Use the AAC approach
+run -f test/fact.scm -l Type # Use the type lattice (default one is TypeSet, which is more precise than Type)
+run -f test/fact.scm -m AAM -d fact.dot # Output the state graph in fact.dot
+run # Launches a REPL that performs interpretation of the input
+#+END_SRC

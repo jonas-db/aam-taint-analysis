@@ -1,0 +1,1156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="070a5f94-a9bf-4534-afd9-65c76a46b9be" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/0KCFAeventcallfunction.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/0KCFAeventsamehandler.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/0KCFAlistenersens.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/0KCFAobjjoin.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/0KCFAobjneg.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/0KCFAobjrem.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/0KCFAobjsamelis.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/1EVTeventcallfunction.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/1EVTeventsamehandler.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/1EVTlistenersens.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/1EVTobjjoin.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/1EVTobjneg.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/1EVTobjrem.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/1EVTobjsamelis.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/1KCFAeventcallfunction.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/1KCFAeventsamehandler.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/1KCFAlistenersens.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/1KCFAobjjoin.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/1KCFAobjneg.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/1KCFAobjrem.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/1KCFAobjsamelis.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/1LSTeventcallfunction.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/1LSTeventsamehandler.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/1LSTlistenersens.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/1LSTobjjoin.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/1LSTobjneg.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/1LSTobjrem.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/1LSTobjsamelis.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/2EVTeventcallfunction.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/2EVTeventsamehandler.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/2EVTlistenersens.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/2EVTobjjoin.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/2EVTobjneg.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/2EVTobjrem.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/2EVTobjsamelis.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/2KCFAeventcallfunction.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/2KCFAeventsamehandler.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/2KCFAlistenersens.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/2KCFAobjjoin.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/2KCFAobjneg.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/2KCFAobjrem.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/2KCFAobjsamelis.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/2LSTeventcallfunction.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/2LSTeventsamehandler.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/2LSTlistenersens.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/2LSTobjjoin.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/2LSTobjneg.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/2LSTobjrem.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/2LSTobjsamelis.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/oud/0KCFAeventcallfunction.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/oud/0KCFAeventsamehandler.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/oud/0KCFAlistenersens.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/oud/0KCFAobjjoin.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/oud/0KCFAobjlis.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/oud/0KCFAobjneg.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/oud/0KCFAobjrem.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/oud/0KCFAobjsamelis.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/oud/1EVTeventcallfunction.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/oud/1EVTeventsamehandler.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/oud/1EVTlistenersens.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/oud/1EVTobjjoin.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/oud/1EVTobjlis.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/oud/1EVTobjneg.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/oud/1EVTobjrem.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/oud/1EVTobjsamelis.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/oud/1KCFAeventcallfunction.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/oud/1KCFAeventsamehandler.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/oud/1KCFAlistenersens.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/oud/1KCFAobjjoin.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/oud/1KCFAobjlis.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/oud/1KCFAobjneg.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/oud/1KCFAobjrem.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/oud/1KCFAobjsamelis.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/oud/1LSTeventcallfunction.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/oud/1LSTeventsamehandler.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/oud/1LSTlistenersens.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/oud/1LSTobjjoin.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/oud/1LSTobjlis.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/oud/1LSTobjneg.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/oud/1LSTobjrem.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/oud/1LSTobjsamelis.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/oud/2EVTeventcallfunction.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/oud/2EVTeventsamehandler.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/oud/2EVTlistenersens.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/oud/2EVTobjjoin.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/oud/2EVTobjlis.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/oud/2EVTobjneg.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/oud/2EVTobjrem.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/oud/2EVTobjsamelis.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/oud/2KCFAeventcallfunction.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/oud/2KCFAeventsamehandler.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/oud/2KCFAlistenersens.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/oud/2KCFAobjjoin.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/oud/2KCFAobjlis.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/oud/2KCFAobjneg.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/oud/2KCFAobjrem.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/oud/2KCFAobjsamelis.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/oud/2LSTeventcallfunction.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/oud/2LSTeventsamehandler.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/oud/2LSTlistenersens.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/oud/2LSTobjjoin.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/oud/2LSTobjlis.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/oud/2LSTobjneg.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/oud/2LSTobjrem.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bm/oud/2LSTobjsamelis.scm.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cleanf.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/eventoutput.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/evtexample.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/evtexample1.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/evtexample2.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examplegraph.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/examples.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gclean.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gcleaned.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/graph.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/graph2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lol.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lol2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/out2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputaam.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/outputtaint.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/questions" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rcode.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/reasons.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/regex/k.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/regex/res102.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/regex/res31.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/regex/res36.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/regex/res39.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/regex/res41.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/regex/res42.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/regex/res49.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/regex/res5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/regex/res53.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/regex/res54.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/regex/res6.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/regex/res66.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/regex/res70.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/regex/res75.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/regex/res83.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/regex/res90.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/regex/test0.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/regex/test1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/regex/test2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/regex/test3.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/regex/test4.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/regex/test5.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/regex/test6.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/regex/test7.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/regex/test8.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/regex/test9.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res31.dat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/abstractcounting/ac1.scm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/abstractcounting/ac2.scm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/abstractcounting/ac3.scm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/abstractcounting/aco1.scm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/evaluation/eventcallfunction.scm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/evaluation/eventsamehandler.scm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/evaluation/evs10.scm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/evaluation/evtexample.scm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/evaluation/listenersens.scm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/evaluation/multiplelisteners.scm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/evaluation/obj.scm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/evaluation/obj2.scm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/evaluation/objjoin.scm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/evaluation/objlis.scm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/evaluation/objneg.scm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/evaluation/objnegoud.scm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/evaluation/objrem.scm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/evaluation/objrem2.scm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/evaluation/objsamelis.scm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/evaluation/outputaam.scm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/evaluation/protojoin.scm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/evaluation/test.scm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/evaluation/tobj.scm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/events/ev0.scm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/events/ev1.scm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/events/ev2.scm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/events/mulobjs.scm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/events/musicplayer.scm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/events/musicplayer_exp.scm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/events/order.scm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/events/railroadcrossing.scm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/events/rec.scm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/events/rmhandler.scm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/obj/closure.scm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/obj/closure2.scm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/obj/fact.scm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/obj/fact3.scm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/obj/facto.scm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/obj/getprop.scm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/obj/kcfa.scm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/obj/kcfa2.scm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/obj/musicplayer.scm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/obj/oo.scm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/obj/railroadcrossing.scm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/obj/setprop.scm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/obj/t_fact2.scm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/obj/t_fact4.scm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/obj/t_fact5.scm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/obj/t_setprop.scm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/obj/window.scm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/sensitive/evs1.scm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/sensitive/evs2.scm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/sensitive/evs3.scm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/sensitive/evs4.scm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/sensitive/evs5.scm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/sensitive/evs6.scm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/sensitive/evs7.scm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/sensitive/evs8.scm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/sensitive/evs9.scm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/sensitive/evsbug.scm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/taint/foo.scm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/taint/foo2.scm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/taint/foo3.scm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/taint/oo.scm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/todo.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.org" afterPath="$PROJECT_DIR$/README.org" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/AAM.scala" afterPath="$PROJECT_DIR$/src/main/scala/AAM.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/Graph.scala" afterPath="$PROJECT_DIR$/src/main/scala/Graph.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/Main.scala" afterPath="$PROJECT_DIR$/src/main/scala/Main.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/NFARegex2.scala" afterPath="$PROJECT_DIR$/src/main/scala/NFARegex2.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/RegexLang.scala" afterPath="$PROJECT_DIR$/src/main/scala/RegexLang.scala" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala/SchemeSemantics.scala" afterPath="$PROJECT_DIR$/src/main/scala/SchemeSemantics.scala" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/project/project/target/" />
+    <ignored path="$PROJECT_DIR$/project/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>convert(</find>
+      <find>@</find>
+      <find>onecfa</find>
+      <find>short</find>
+      <find>rip</find>
+      <find>lol</find>
+      <find>gege</find>
+      <find>drep</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/scala/AAM.scala" />
+        <option value="$PROJECT_DIR$/test/evaluation/evs10.scm" />
+        <option value="$PROJECT_DIR$/test/evaluation/evs10e.scm" />
+        <option value="$PROJECT_DIR$/test/sensitive/evs4.scm" />
+        <option value="$PROJECT_DIR$/src/main/scala/Main.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/NFARegex2.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/RegexLang.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/Graph.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/SchemeSemantics.scala" />
+        <option value="$PROJECT_DIR$/test/evaluation/eventcallfunction.scm" />
+        <option value="$PROJECT_DIR$/test/eval/lstfunc.scm" />
+        <option value="$PROJECT_DIR$/test/eval/samelst.scm" />
+        <option value="$PROJECT_DIR$/test/eval/nestedlst.scm" />
+        <option value="$PROJECT_DIR$/test/eval/objjoin.scm" />
+        <option value="$PROJECT_DIR$/test/eval/delprop.scm" />
+        <option value="$PROJECT_DIR$/test/eval/funccalls.scm" />
+        <option value="$PROJECT_DIR$/test/eval/rmlst.scm" />
+        <option value="$PROJECT_DIR$/test/eval/manylst.scm" />
+        <option value="$PROJECT_DIR$/README.org" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="944" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala-am-object" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scala-am-object" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test/evaluation" />
+      <recent name="$PROJECT_DIR$/test/eval" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Run Queue">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="scala-am-object" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaScriptConsoleRunConfiguration" factoryName="Scala Console">
+      <module name="" />
+      <setting name="vmparams4" value="-Djline.terminal=NONE" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="consoleArgs" value="-usejavacp" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Run" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="-f test/evaluation/evs10.scm -m AAM -d out.dot -l MustTaint" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="scala-am-object" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Run Queue" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="-f test/evaluation/evs10e.scm -m AAM -d out.dot -l MustTaint" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="scala-am-object" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.Run" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Run Queue" />
+    </list>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="lastUpdateTimestamp" value="1485187741556" />
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="scala-am-object" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="scala-am-object" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="scala-am-object-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="1485182197000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="070a5f94-a9bf-4534-afd9-65c76a46b9be" name="Default" comment="" />
+      <created>1485187705804</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1485187705804</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="944" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32915717" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="SBT" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32914287" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32914287" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.dot" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="XPathView.XPathProjectComponent">
+    <history />
+    <find-history>
+      <element expression="lol" />
+      <element expression="gege" />
+      <element expression="add-event-listen" />
+    </find-history>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test/evaluation/outputaam.scm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/evaluation/evtexample.scm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/evaluation/protojoin.scm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="15" lean-forward="false" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/obj/railroadcrossing.scm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/obj/musicplayer.scm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/evaluation/multiplelisteners.scm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="18" lean-forward="false" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/evaluation/obj.scm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="35" lean-forward="false" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out.dot">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="15" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="307" selection-end-column="9894" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/ack.scm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/taint/foo.scm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/taint/foo2.scm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/taint/oo.scm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/taint/foo3.scm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/abstractcounting/ac2.scm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/abstractcounting/ac3.scm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/abstractcounting/aco1.scm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/abstractcounting/ac1.scm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/sensitive/evs4.scm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="25" lean-forward="false" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/sensitive/evs8.scm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/sensitive/evs6.scm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/evaluation/test.scm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/evaluation/tobj.scm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Main.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="205" column="32" lean-forward="true" selection-start-line="205" selection-start-column="32" selection-end-line="205" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/NFARegex2.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-485">
+          <caret line="121" column="72" lean-forward="false" selection-start-line="121" selection-start-column="72" selection-end-line="121" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/AAM.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1060">
+          <caret line="258" column="30" lean-forward="false" selection-start-line="258" selection-start-column="30" selection-end-line="258" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.cache-main">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="4298" column="140" lean-forward="false" selection-start-line="4298" selection-start-column="140" selection-end-line="4298" selection-end-column="140" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/SchemeSemantics.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="635" column="70" lean-forward="false" selection-start-line="635" selection-start-column="70" selection-end-line="635" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/Graph.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="76" column="27" lean-forward="false" selection-start-line="76" selection-start-column="27" selection-end-line="76" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/misc/sensitive/evs1.scm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="25" lean-forward="false" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/RegexLang.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-144">
+          <caret line="304" column="61" lean-forward="false" selection-start-line="304" selection-start-column="61" selection-end-line="304" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/evaluation/evs10e.scm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/InterpreterTests.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="169" column="10" lean-forward="true" selection-start-line="169" selection-start-column="10" selection-end-line="169" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/evaluation/eventcallfunction.scm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/eval/lstfunc.scm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/evaluation/eventsamehandler.scm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/evaluation/evs10.scm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/evaluation/listenersens.scm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="6" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/eval/nestedlst.scm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/evaluation/objjoin.scm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="18" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="31" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/eval/objjoin.scm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/evaluation/objlis.scm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="26" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/eval/delprop.scm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/evaluation/objneg.scm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="14" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/eval/funccalls.scm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/evaluation/objrem2.scm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/evaluation/objrem.scm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="26" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/eval/rmlst.scm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="13" lean-forward="false" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/eval/samelst.scm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/evaluation/objsamelis.scm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="20" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/eval/manylst.scm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.org">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="62" lean-forward="false" selection-start-line="3" selection-start-column="62" selection-end-line="3" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

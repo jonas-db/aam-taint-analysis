@@ -1,0 +1,5 @@
+(define a (object))
+(define x 1)
+(define-accessor-property a 'test (lambda () x) (lambda (s) (set! x s)))
+(set-property a 'test "ok")
+(get-property a 'test)
